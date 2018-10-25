@@ -11,7 +11,7 @@ Made with love by [Vadim Ogievetsky](http://vadim.ogievetsky.com) for [Annie Alb
 Powered by [Mike Bostock](http://bost.ocks.org/mike/)'s [D3](http://d3js.org/)
 
 
-# Usage
+# Usage .
 
 ## Custom images
 
